@@ -1,0 +1,7 @@
+{
+    "length": 16,
+    "use_uppercase": true,
+    "use_numbers": true,
+    "use_special_chars": true,
+    "output_file": "my_passwords.txt"
+}
